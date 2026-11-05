@@ -1,0 +1,4 @@
+1) Descomprime el zip.
+2) Abre MauiSqliteDemo4845321.sln con Visual Studio 2022 (con la carga de trabajo ".NET MAUI" instalada).
+3) Espera a que restaure los paquetes NuGet (sqlite-net-pcl y SQLitePCLRaw.bundle_green).
+4) Selecciona "Windows Machine" y pulsa Play.
